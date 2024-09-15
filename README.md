@@ -1,7 +1,7 @@
 # Performance-Testing-with_Jmeter
 
 
-I’ve completed performance testing on frequently used API ```https://restful-booker.herokuapp.com```
+I’ve completed performance testing on frequently used API ```https://restful-booker.herokuapp.com``` and generated a HTML report on it.
 
 # Download process of Apache-Jmeter
 
