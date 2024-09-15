@@ -39,7 +39,7 @@ if you have Java installed in your system, the command will show that Java is in
 
 
 4. Clone this repository
-``` git clone https://github.com/itsnipa/performance-testing-jmeter.git ```
+```git clone https://github.com/itsnipa/performance-testing-jmeter.git ```
 
 5. Open jmeter in CML. it will redirect you to jmeter GUI.
 
