@@ -48,7 +48,7 @@ if you have Java installed in your system, the command will show that Java is in
 
 ![image](https://github.com/user-attachments/assets/44631686-3d77-41ba-9c36-1adcda12c2ab)
 
-7. choose jmx files from report folder and open
+7. choose jmx files from report folder and open jmx file
 
 8. Enable the listeners and run the files and see the results
 
@@ -64,12 +64,29 @@ if you have Java installed in your system, the command will show that Java is in
   ### **HTML report generate process**
 
 
-1. Open command line in apache-jmeter folder and run this command one after another
+1. Open command line in apache-jmeter folder and run this two command one after another. here this commands will run for 100user.
 
    ```
-    jmeter -n -t b25demo_t700.jmx -l report\b25demo_t700.jtl
+    jmeter -n -t test_plan_booking_collection_100user.jmx -l report\test_plan_booking_collection_100user.jtl
    ```
    ```
-    jmeter -g report\b25demo_t700.jtl -o report\b25demo_t700.html
+    jmeter -g report\test_plan_booking_collection_100user.jtl -o report\test_plan_booking_collection_100user.html
    ```
+
+
+**HTML Summary Report**
+
+  - for 100 user
+    ![image](https://github.com/user-attachments/assets/0b4fb9e5-abe1-4c1f-8102-348b2d8a2185)
+
+
+ - for 200 user
+   ![image](https://github.com/user-attachments/assets/0def7bdc-a34a-49ee-a5de-0fd71d388a19)
+
+
+ - for 300 user
+   ![image](https://github.com/user-attachments/assets/923202ae-112c-47f5-abc1-730023aaa569)
+
+
+
 
