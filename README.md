@@ -18,7 +18,7 @@ The files in ```test-plans``` folder are different types of testing of apache-jm
 
   ![image](https://github.com/user-attachments/assets/1979e523-80be-481c-bcf7-806ce634b48b)
 
-if you have Java installed in your system, the command will show the version of Java installed, else, before going forward with the installation of JMeter, you must install Java. download from [here](https://www.oracle.com/java/technologies/downloads/)
+if you have Java installed in your system, the command will show that Java is installed, else, before going forward with the installation of JMeter, you must install Java. download java from [here](https://www.oracle.com/java/technologies/downloads/)
 
 
 2. Download JMeter
