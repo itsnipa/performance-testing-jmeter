@@ -74,7 +74,7 @@ if you have Java installed in your system, the command will show that Java is in
    ```
 
 
-**HTML Summary Report**
+**HTML Summary Reports**
 
   - for 100 user
 
