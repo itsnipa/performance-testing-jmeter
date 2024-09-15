@@ -46,15 +46,22 @@ if you have Java installed in your system, the command will show that Java is in
    
 6. Go to file and click on Open
 
-![image](https://github.com/user-attachments/assets/611d4c96-9285-4d6b-a5cf-b44e77058db3)
+![image](https://github.com/user-attachments/assets/44631686-3d77-41ba-9c36-1adcda12c2ab)
 
-7. choose files from test-plan folder and open
+7. choose jmx files from report folder and open
 
-8. Run and click on view results in table  to see the result
+8. Enable the listeners and run the files and see the results
 
-### **For Throughput Controller Using.jmx:**
+![image](https://github.com/user-attachments/assets/62d51143-7c8a-475e-9824-41d4e0394ef4)
 
-![image](https://github.com/user-attachments/assets/32b1f7d2-f590-4faf-8400-a54a278bf060)
+  results:
+
+![image](https://github.com/user-attachments/assets/426f05ba-7fc5-4255-b078-41e5c9de6e9d)
+
+
+
+### **HTML report generate process**
+
 
 
 ### **For Various Controller Using.jmx:**
