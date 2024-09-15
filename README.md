@@ -60,26 +60,16 @@ if you have Java installed in your system, the command will show that Java is in
 
 
 
-### **HTML report generate process**
+
+  ### **HTML report generate process**
 
 
+1. Open command line in apache-jmeter folder and run this command one after another
 
-### **For Various Controller Using.jmx:**
-
-![image](https://github.com/user-attachments/assets/71689a91-65e9-4a78-a3c1-b34eb5abe049)
-
-
-### ** For params_testing.jmx:**
-
-![image](https://github.com/user-attachments/assets/d38333b1-07f1-4a9c-aaff-8ba04d54fde8)
-
-
-### **For correlation.jmx:**
-
-![image](https://github.com/user-attachments/assets/50135181-dec7-4a9e-a1dc-2a310ac95ad8)
-
-
-
-
-
+   ```
+    jmeter -n -t b25demo_t700.jmx -l report\b25demo_t700.jtl
+   ```
+```
+   jmeter -g report\b25demo_t700.jtl -o report\b25demo_t700.html
+```
 
