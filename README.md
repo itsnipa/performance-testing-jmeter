@@ -69,7 +69,7 @@ if you have Java installed in your system, the command will show that Java is in
    ```
     jmeter -n -t b25demo_t700.jmx -l report\b25demo_t700.jtl
    ```
-```
+   ```
     jmeter -g report\b25demo_t700.jtl -o report\b25demo_t700.html
-```
+   ```
 
