@@ -1,7 +1,7 @@
 # Performance-Testing-with_Jmeter
 
 
-The files in ```test-plans``` folder are different types of testing of apache-jmeter.
+I’ve completed performance test on frequently used API ```https://restful-booker.herokuapp.com```
 
 # Download process of Apache-Jmeter
 
